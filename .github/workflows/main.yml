@@ -32,4 +32,4 @@ jobs:
           sudo rm -rf /var/www/html/DevEasy/*
           sudo mv * /var/www/html/DevEasy/
           sudo systemctl reload httpd
-          echo Build done :)
+          echo "Build done :)"
