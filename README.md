@@ -4,7 +4,8 @@
 <br/>
 <p>So, we provide a portable very handy to use online terminal and access to applications on a online Dev environment named "DEVEASY". A online space providing you the fastest and free to use web based terminal, applications and configurations for your desired project and development.
 Have a experience of the live service at: https://bit.ly/3GHOORd</p>
-
+<br/>
+To use the terminal use ID-guest | PASSWORD-ubuntu
 
 Member: Yagyandatta Murmu
 Pritipadma Mishra
